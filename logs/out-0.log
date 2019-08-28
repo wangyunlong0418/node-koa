@@ -1,0 +1,53 @@
+2019-08-28 23:09:05:   <-- GET /
+2019-08-28 23:09:06: GET / - 822ms
+2019-08-28 23:09:06:   --> GET / 200 849ms 185b
+2019-08-28 23:09:06:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:06:   --> GET /stylesheets/style.css 200 23ms 111b
+2019-08-28 23:09:07:   <-- GET /
+2019-08-28 23:09:07: GET / - 14ms
+2019-08-28 23:09:07:   --> GET / 200 22ms 185b
+2019-08-28 23:09:07:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:07:   --> GET /stylesheets/style.css 200 2ms 111b
+2019-08-28 23:09:08:   <-- GET /
+2019-08-28 23:09:08: GET / - 9ms
+2019-08-28 23:09:08:   --> GET / 200 10ms 185b
+2019-08-28 23:09:08:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:09:   --> GET /stylesheets/style.css 200 3ms 111b
+2019-08-28 23:09:09:   <-- GET /
+2019-08-28 23:09:09: GET / - 8ms
+2019-08-28 23:09:09:   --> GET / 200 9ms 185b
+2019-08-28 23:09:09:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:09:   --> GET /stylesheets/style.css 200 1ms 111b
+2019-08-28 23:09:09:   <-- GET /
+2019-08-28 23:09:09: GET / - 13ms
+2019-08-28 23:09:09:   --> GET / 200 14ms 185b
+2019-08-28 23:09:09:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:09:   --> GET /stylesheets/style.css 200 2ms 111b
+2019-08-28 23:09:09:   <-- GET /
+2019-08-28 23:09:09: GET / - 9ms
+2019-08-28 23:09:09:   --> GET / 200 10ms 185b
+2019-08-28 23:09:09:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:09:   --> GET /stylesheets/style.css 200 7ms 111b
+2019-08-28 23:09:09:   <-- GET /
+2019-08-28 23:09:09: GET / - 11ms
+2019-08-28 23:09:09:   --> GET / 200 13ms 185b
+2019-08-28 23:09:09:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:09:   --> GET /stylesheets/style.css 200 2ms 111b
+2019-08-28 23:09:09:   <-- GET /
+2019-08-28 23:09:09: GET / - 10ms
+2019-08-28 23:09:09:   --> GET / 200 12ms 185b
+2019-08-28 23:09:10:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:10:   --> GET /stylesheets/style.css 200 1ms 111b
+2019-08-28 23:09:10:   <-- GET /
+2019-08-28 23:09:10: GET / - 8ms
+2019-08-28 23:09:10:   --> GET / 200 10ms 185b
+2019-08-28 23:09:10:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:10:   --> GET /stylesheets/style.css 200 1ms 111b
+2019-08-28 23:09:10:   <-- GET /
+2019-08-28 23:09:10: GET / - 8ms
+2019-08-28 23:09:10:   --> GET / 200 10ms 185b
+2019-08-28 23:09:10:   <-- GET /stylesheets/style.css
+2019-08-28 23:09:10:   --> GET /stylesheets/style.css 200 4ms 111b
+2019-08-28 23:09:48:   <-- GET /blog/list
+2019-08-28 23:09:48: GET /blog/list - 27ms
+2019-08-28 23:09:48:   --> GET /blog/list 200 47ms 2.29kb
