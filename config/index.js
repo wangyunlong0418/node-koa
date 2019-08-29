@@ -10,9 +10,9 @@ const mysqlConf = {
         database: 'myblog'
     },
     production: {
-        host: 'localhost',
+        host: '39.106.47.163',
         user: 'root',
-        password: '123456',
+        password: 'luxixi0404',
         database: 'myblog'
     },
 }

@@ -1,3 +1,9 @@
 2019-08-28 23:10:24:   <-- GET /blog/list
 2019-08-28 23:10:24: GET /blog/list - 17ms
 2019-08-28 23:10:24:   --> GET /blog/list 200 35ms 2.29kb
+2019-08-30 07:31:24:   <-- GET /blog/list
+2019-08-30 07:31:24: GET /blog/list - 32ms
+2019-08-30 07:31:24:   --> GET /blog/list 200 56ms 20b
+2019-08-30 07:31:24:   <-- GET /favicon.ico
+2019-08-30 07:31:24: GET /favicon.ico - 0ms
+2019-08-30 07:31:24:   --> GET /favicon.ico 404 2ms -
