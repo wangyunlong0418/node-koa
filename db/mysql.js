@@ -1,6 +1,8 @@
 const mysql = require('mysql2/promise');
 const { mysqlConfig } = require('../config');
 
+console.log('mysqlConfig:', mysqlConfig);
+
 const connection = mysql.createConnection(mysqlConfig);
 const exec = (sql) => {
     const promise = new Promise((resolve, reject) => {
