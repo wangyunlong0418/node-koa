@@ -4,4 +4,4 @@ node_js: stable
 install:
   - npm install
 before_script: npm install
-script: npm run prod
+script: ''
