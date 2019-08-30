@@ -3,5 +3,5 @@ node_js: stable
 
 install:
   - npm install
-before_script: npm install
+before_script: cd /root/workspace/project/node-koa && npm install 
 script: ''
